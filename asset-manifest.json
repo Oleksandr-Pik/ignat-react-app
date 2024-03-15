@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ignat-react-app/static/css/main.eaa70cb0.css",
+    "main.css": "/ignat-react-app/static/css/main.c06a89ee.css",
     "main.js": "/ignat-react-app/static/js/main.16a3b706.js",
     "static/js/79.743b4828.chunk.js": "/ignat-react-app/static/js/79.743b4828.chunk.js",
     "static/js/325.d2899bc1.chunk.js": "/ignat-react-app/static/js/325.d2899bc1.chunk.js",
     "index.html": "/ignat-react-app/index.html",
-    "main.eaa70cb0.css.map": "/ignat-react-app/static/css/main.eaa70cb0.css.map",
+    "main.c06a89ee.css.map": "/ignat-react-app/static/css/main.c06a89ee.css.map",
     "main.16a3b706.js.map": "/ignat-react-app/static/js/main.16a3b706.js.map",
     "79.743b4828.chunk.js.map": "/ignat-react-app/static/js/79.743b4828.chunk.js.map",
     "325.d2899bc1.chunk.js.map": "/ignat-react-app/static/js/325.d2899bc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaa70cb0.css",
+    "static/css/main.c06a89ee.css",
     "static/js/main.16a3b706.js"
   ]
 }
