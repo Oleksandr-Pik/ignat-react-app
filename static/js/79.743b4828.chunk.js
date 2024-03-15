@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkignat_react_app=self.webpackChunkignat_react_app||[]).push([[79],{79:(a,e,p)=>{p.r(e),p.d(e,{default:()=>c});p(43);var t=p(579);const c=()=>(0,t.jsx)("div",{children:"Main page"})}}]);
+//# sourceMappingURL=79.743b4828.chunk.js.map

@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/ignat-react-app/static/css/main.eaa70cb0.css",
+    "main.js": "/ignat-react-app/static/js/main.16a3b706.js",
+    "static/js/79.743b4828.chunk.js": "/ignat-react-app/static/js/79.743b4828.chunk.js",
+    "static/js/325.d2899bc1.chunk.js": "/ignat-react-app/static/js/325.d2899bc1.chunk.js",
+    "index.html": "/ignat-react-app/index.html",
+    "main.eaa70cb0.css.map": "/ignat-react-app/static/css/main.eaa70cb0.css.map",
+    "main.16a3b706.js.map": "/ignat-react-app/static/js/main.16a3b706.js.map",
+    "79.743b4828.chunk.js.map": "/ignat-react-app/static/js/79.743b4828.chunk.js.map",
+    "325.d2899bc1.chunk.js.map": "/ignat-react-app/static/js/325.d2899bc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.eaa70cb0.css",
+    "static/js/main.16a3b706.js"
   ]
 }
