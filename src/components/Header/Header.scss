@@ -67,7 +67,9 @@
   display: flex;
   gap: 20px;
 
-  .btn {
+  .bag-btn,
+  .heart-btn,
+  .search-btn {
     border: none;
     background-color: transparent;
   }

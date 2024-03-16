@@ -40,15 +40,15 @@ const Header = () => {
           <div className="input-wrapper">
             <label className="search-wrapper" htmlFor="search">
               <input className="search" type="text" name="search" id="search" />
-              <button className="search-btn btn">
+              <button className="search-btn">
                 <img src={search} alt="search-icon" />
               </button>
             </label>
           </div>
-          <button className="heart-btn btn">
+          <button className="heart-btn">
             <img src={heart} alt="heart" className="header-icon" />
           </button>
-          <button className="bag-btn btn">
+          <button className="bag-btn ">
             <img src={bag} alt="bag" className="header-icon" />
           </button>
         </div>
