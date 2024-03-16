@@ -7,7 +7,7 @@ import "./index.scss";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/ignat-react-app">
       <App />
     </BrowserRouter>
   </React.StrictMode>
