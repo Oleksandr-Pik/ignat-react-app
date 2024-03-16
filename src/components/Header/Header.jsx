@@ -29,11 +29,11 @@ const Header = () => {
           <img src={logo} alt="app logo" />
         </a>
         <nav className="main-nav">
-          <a href="#">новинки</a>
-          <a href="#">чоловіки</a>
-          <a href="#">жінки</a>
-          <a href="#">аксесуари</a>
-          <a href="#">акції</a>
+          <a href="/">новинки</a>
+          <a href="/">чоловіки</a>
+          <a href="/">жінки</a>
+          <a href="/">аксесуари</a>
+          <a href="/">акції</a>
         </nav>
 
         <div className="search-icon-wrapper">

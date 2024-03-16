@@ -13,7 +13,7 @@ const MainPage = () => {
           Обирай подарунок своїм друзями бодібілдерам із нашою новою колекцію
           термобілизни “Big warm”
         </p>
-        <a className='btn' href="#">До каталогу</a>
+        <a className='btn' href="/">До каталогу</a>
         </div>
         <div className="right-side"></div>
       </section>
