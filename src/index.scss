@@ -12,12 +12,18 @@
   --font-family: "Roboto", sans-serif;
   --second-family: "Inter", sans-serif;
   --third-family: "Montserrat", sans-serif;
+
+	--animation-transition: all .3s ease-in-out;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
 */
+
+* {
+	box-sizing: border-box;
+}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -66,4 +72,8 @@ body {
   font-family: var(--font-family);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+	cursor: pointer;
 }
