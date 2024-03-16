@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hero.scss';
-import arrowLeft from './arrow-left.svg';
-import arrowRight from './arrow-right.svg';
+import angleLeft from './angle-left.svg';
+import angleRight from './angle-right.svg';
 import pagination from './pagination.svg';
 
 const Hero = () => {
@@ -18,8 +18,8 @@ const Hero = () => {
             <p className="discont-title">Знижки до 40%</p>
             <p className="discont-subtitle">Залишився лише тиждень</p>
           </div>
-          <img className='arrow-left' src={arrowLeft} alt="arrow left" />
-          <img className='arrow-right' src={arrowRight} alt="arrow right" />
+          <img className='angle-left' src={angleLeft} alt="angle left" />
+          <img className='angle-right' src={angleRight} alt="angle right" />
           <img className='pagination' src={pagination} alt="pagination" />
         </div>
       </section>

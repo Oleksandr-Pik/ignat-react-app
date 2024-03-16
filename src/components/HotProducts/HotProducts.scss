@@ -1,0 +1,36 @@
+.hot-products {
+  margin-bottom: 80px;
+}
+
+.hot-products-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  h2 {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 154%;
+    color: var(--black-80);
+  }
+}
+
+.cads-pagination {
+  display: flex;
+  gap: 20px;
+
+  p {
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: 150%;
+    font-variant: small-caps;
+    color: var(--black-80);
+    margin-right: 10px;
+  }
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: white;
+}
