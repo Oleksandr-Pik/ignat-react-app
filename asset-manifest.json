@@ -1,28 +1,35 @@
 {
   "files": {
     "main.css": "/ignat-react-app/static/css/main.4b05dc62.css",
-    "main.js": "/ignat-react-app/static/js/main.e5eb3132.js",
-    "static/css/198.643295bf.chunk.css": "/ignat-react-app/static/css/198.643295bf.chunk.css",
-    "static/js/198.0aa7b0be.chunk.js": "/ignat-react-app/static/js/198.0aa7b0be.chunk.js",
+    "main.js": "/ignat-react-app/static/js/main.ee295863.js",
+    "static/css/228.2d39327f.chunk.css": "/ignat-react-app/static/css/228.2d39327f.chunk.css",
+    "static/js/228.65c331eb.chunk.js": "/ignat-react-app/static/js/228.65c331eb.chunk.js",
     "static/js/325.d2899bc1.chunk.js": "/ignat-react-app/static/js/325.d2899bc1.chunk.js",
+    "static/js/800.c9945117.chunk.js": "/ignat-react-app/static/js/800.c9945117.chunk.js",
     "static/media/pagination.svg": "/ignat-react-app/static/media/pagination.2c169dd9cab47c79b2caaaa0ff84a265.svg",
     "static/media/slider-image.jpg": "/ignat-react-app/static/media/slider-image.519005dc9cf2134412db.jpg",
+    "static/media/slide-img-3.jpg": "/ignat-react-app/static/media/slide-img-3.635ef086f90b1e3a1dc4.jpg",
+    "static/media/slide-img-2.jpg": "/ignat-react-app/static/media/slide-img-2.340d19a6307547355ed3.jpg",
     "static/media/bg.jpg": "/ignat-react-app/static/media/bg.d8c72918a5b9499e84ea.jpg",
+    "static/media/slide-img-1.jpg": "/ignat-react-app/static/media/slide-img-1.267bbc3e66d754d063fa.jpg",
     "static/media/bag.svg": "/ignat-react-app/static/media/bag.4c6e5b7230a2825ba1ca03870e8997c9.svg",
     "static/media/logo.svg": "/ignat-react-app/static/media/logo.70ff24ae3e207e0f57570056892fda3f.svg",
     "index.html": "/ignat-react-app/index.html",
     "static/media/heart.svg": "/ignat-react-app/static/media/heart.06ad5e9cdc412c1822f3cbd83f8d3b88.svg",
     "static/media/search-icon.svg": "/ignat-react-app/static/media/search-icon.88d53e1a8aa4c4bd24bf322060e7f311.svg",
-    "static/media/arrow-right.svg": "/ignat-react-app/static/media/arrow-right.c606a29c242bdd25585b42526ca2395b.svg",
-    "static/media/arrow-left.svg": "/ignat-react-app/static/media/arrow-left.a93a17c9c76783670d6101be7ef0030c.svg",
+    "static/media/angle-right.svg": "/ignat-react-app/static/media/angle-right.c606a29c242bdd25585b42526ca2395b.svg",
+    "static/media/angle-left.svg": "/ignat-react-app/static/media/angle-left.a93a17c9c76783670d6101be7ef0030c.svg",
+    "static/media/arrow-right.svg": "/ignat-react-app/static/media/arrow-right.55335432f62b14f0750b8ff238c17f8e.svg",
+    "static/media/arrow-left.svg": "/ignat-react-app/static/media/arrow-left.2dd36e8e4aa5e945f48ba8af0b5ce0c6.svg",
     "main.4b05dc62.css.map": "/ignat-react-app/static/css/main.4b05dc62.css.map",
-    "main.e5eb3132.js.map": "/ignat-react-app/static/js/main.e5eb3132.js.map",
-    "198.643295bf.chunk.css.map": "/ignat-react-app/static/css/198.643295bf.chunk.css.map",
-    "198.0aa7b0be.chunk.js.map": "/ignat-react-app/static/js/198.0aa7b0be.chunk.js.map",
-    "325.d2899bc1.chunk.js.map": "/ignat-react-app/static/js/325.d2899bc1.chunk.js.map"
+    "main.ee295863.js.map": "/ignat-react-app/static/js/main.ee295863.js.map",
+    "228.2d39327f.chunk.css.map": "/ignat-react-app/static/css/228.2d39327f.chunk.css.map",
+    "228.65c331eb.chunk.js.map": "/ignat-react-app/static/js/228.65c331eb.chunk.js.map",
+    "325.d2899bc1.chunk.js.map": "/ignat-react-app/static/js/325.d2899bc1.chunk.js.map",
+    "800.c9945117.chunk.js.map": "/ignat-react-app/static/js/800.c9945117.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b05dc62.css",
-    "static/js/main.e5eb3132.js"
+    "static/js/main.ee295863.js"
   ]
 }
