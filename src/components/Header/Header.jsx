@@ -12,13 +12,13 @@ const Header = () => {
         <div className="container">
           <div className="header-top-left">
             <a href="tel:+0989000909">098 900 09 09</a>
-            <a href="#">Допомога</a>
+            <a href="/">Допомога</a>
           </div>
 
           <div className="header-top-right">
-            <a href="#">Увійти</a>
+            <a href="/">Увійти</a>
             <span> &#x2f; </span>
-            <a href="#">Зареєструватися</a>
+            <a href="/">Зареєструватися</a>
           </div>
         </div>
       </div>
