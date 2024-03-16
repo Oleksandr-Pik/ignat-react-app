@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ignat-react-app/static/css/main.4b05dc62.css",
-    "main.js": "/ignat-react-app/static/js/main.ee295863.js",
+    "main.js": "/ignat-react-app/static/js/main.de11398a.js",
     "static/css/228.2d39327f.chunk.css": "/ignat-react-app/static/css/228.2d39327f.chunk.css",
     "static/js/228.65c331eb.chunk.js": "/ignat-react-app/static/js/228.65c331eb.chunk.js",
     "static/js/325.d2899bc1.chunk.js": "/ignat-react-app/static/js/325.d2899bc1.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/arrow-right.svg": "/ignat-react-app/static/media/arrow-right.55335432f62b14f0750b8ff238c17f8e.svg",
     "static/media/arrow-left.svg": "/ignat-react-app/static/media/arrow-left.2dd36e8e4aa5e945f48ba8af0b5ce0c6.svg",
     "main.4b05dc62.css.map": "/ignat-react-app/static/css/main.4b05dc62.css.map",
-    "main.ee295863.js.map": "/ignat-react-app/static/js/main.ee295863.js.map",
+    "main.de11398a.js.map": "/ignat-react-app/static/js/main.de11398a.js.map",
     "228.2d39327f.chunk.css.map": "/ignat-react-app/static/css/228.2d39327f.chunk.css.map",
     "228.65c331eb.chunk.js.map": "/ignat-react-app/static/js/228.65c331eb.chunk.js.map",
     "325.d2899bc1.chunk.js.map": "/ignat-react-app/static/js/325.d2899bc1.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.4b05dc62.css",
-    "static/js/main.ee295863.js"
+    "static/js/main.de11398a.js"
   ]
 }
