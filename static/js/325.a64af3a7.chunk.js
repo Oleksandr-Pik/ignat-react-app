@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkignat_react_app=self.webpackChunkignat_react_app||[]).push([[325],{325:(e,i,a)=>{a.r(i),a.d(i,{default:()=>s});a(43);var t=a(579);const s=()=>(0,t.jsxs)("div",{children:[(0,t.jsx)("h1",{children:"Product Page"}),(0,t.jsx)("p",{children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, ex perspiciatis recusandae nesciunt hic dolor explicabo quis atque vitae, nam sint tempore deleniti fugit. Vero cupiditate explicabo neque accusamus sequi?"})]})}}]);
-//# sourceMappingURL=325.a64af3a7.chunk.js.map
