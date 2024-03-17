@@ -3,6 +3,7 @@ import './Footer.scss';
 import instagramIcon from './instagram.svg';
 import viberIcon from './viber.svg';
 import telegramIcon from './telegram.svg';
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -49,11 +50,11 @@ const Footer = () => {
       <div className="footer-bottom">
         <div className="container footer-bottom-wrapper">
           <nav className="main-nav">
-            <a href="/">новинки</a>
-            <a href="/">чоловіки</a>
-            <a href="/">жінки</a>
-            <a href="/">аксесуари</a>
-            <a href="/">акції</a>
+            <Link to="/">новинки</Link>
+            <Link to="/product">чоловіки</Link>
+            <Link to="/product">жінки</Link>
+            <Link to="/product">аксесуари</Link>
+            <Link to="/">акції</Link>
           </nav>
           <p className="copyright">© 2022 — 2023 IGNAT. Усі права захищені.</p>
         </div>

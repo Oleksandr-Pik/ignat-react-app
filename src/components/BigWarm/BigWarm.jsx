@@ -1,5 +1,6 @@
 import React from 'react';
 import './BigWarm.scss';
+import { Link } from 'react-router-dom';
 
 const BigWarm = () => {
   return (
@@ -10,9 +11,9 @@ const BigWarm = () => {
           Обирай подарунок своїм друзями бодібілдерам із нашою новою колекцію
           термобілизни “Big warm”
         </p>
-        <a className="big-warm-btn btn" href="/">
+        <Link className="big-warm-btn btn" href="/">
           До каталогу
-        </a>
+        </Link>
       </div>
 
       <div className="big-warm-right-side"></div>

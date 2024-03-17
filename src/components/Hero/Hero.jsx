@@ -1,6 +1,6 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Navigation, Pagination, Scrollbar } from 'swiper/modules';
+import { Autoplay, Navigation, Pagination, Scrollbar } from 'swiper/modules';
 import 'swiper/scss';
 import 'swiper/scss/navigation';
 import 'swiper/scss/pagination';
@@ -14,9 +14,13 @@ const Hero = () => {
     <section className="hero parallax-bg" data-swiper-parallax="-25%">
       <div className="container" >
         <Swiper
-          modules={[Navigation, Pagination, Scrollbar]}
+          modules={[Autoplay, Navigation, Pagination, Scrollbar]}
           spaceBetween={30}
           slidesPerView={1}
+          autoplay={{
+            delay: 3000,
+            disableOnInteraction: false,
+          }}
           loop={true}
           parallax={true}
           navigation={{

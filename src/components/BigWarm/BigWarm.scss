@@ -47,4 +47,9 @@
   line-height: 150%;
   font-variant: small-caps;
   color: var(--white);
+  text-align: center;
+
+  &:hover {
+    text-decoration: none;
+  }
 }

@@ -4,36 +4,37 @@ import search from './search-icon.svg';
 import heart from './heart.svg';
 import bag from './bag.svg';
 import './Header.scss';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header className="header">
+    <header className="header" id="home">
       <div className="header-top">
         <div className="container">
           <div className="header-top-left">
-            <a href="tel:+0989000909">098 900 09 09</a>
-            <a href="/">Допомога</a>
+            <Link href="tel:+0989000909">098 900 09 09</Link>
+            <Link to="/">Допомога</Link>
           </div>
 
           <div className="header-top-right">
-            <a href="/">Увійти</a>
+            <Link to="/">Увійти</Link>
             <span> &#x2f; </span>
-            <a href="/">Зареєструватися</a>
+            <Link to="/">Зареєструватися</Link>
           </div>
         </div>
       </div>
 
       <div className="header-bottom container">
-        <a className="logo" href="/">
+        <Link className="logo" to="/">
           {/* <span>Ignat</span> */}
           <img src={logo} alt="app logo" />
-        </a>
+        </Link>
         <nav className="main-nav">
-          <a href="/">новинки</a>
-          <a href="/">чоловіки</a>
-          <a href="/">жінки</a>
-          <a href="/">аксесуари</a>
-          <a href="/">акції</a>
+          <Link to="/">новинки</Link>
+          <Link to="/product">чоловіки</Link>
+          <Link to="/product">жінки</Link>
+          <Link to="/product">аксесуари</Link>
+          <Link to="/">акції</Link>
         </nav>
 
         <div className="search-icon-wrapper">
