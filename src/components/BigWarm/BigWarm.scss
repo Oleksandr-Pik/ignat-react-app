@@ -20,20 +20,22 @@
 }
 
 .big-warm-title {
-  width: 570px;
+  width: 569px;
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 38px;
   line-height: 132%;
+  font-variant: small-caps;
   color: var(--black-80);
   margin-bottom: 30px;
 }
 
 .big-warm-descr {
-  width: 420px;
+  width: 370px;
   font-family: var(--font-family);
   font-size: 16px;
   line-height: 150%;
+  font-variant: small-caps;
   color: var(--black-60);
   margin-bottom: 40px;
 }

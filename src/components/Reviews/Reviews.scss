@@ -1,0 +1,73 @@
+.rewiews {
+  margin-bottom: 160px;
+}
+
+.rewiews-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+
+  h2 {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 154%;
+    font-variant: small-caps;
+    color: var(--black-80);
+  }
+}
+
+.cards-pagination {
+  display: flex;
+  gap: 20px;
+
+  p {
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--black-80);
+    margin-right: 10px;
+  }
+}
+
+.rewiews-button-prev,
+.rewiews-button-next {
+  cursor: pointer;
+}
+
+.rewiew-card {
+  padding: 30px 37px;
+  border: 1px solid var(--black-100);
+  border-radius: 10px;
+
+  p {
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--black-60);
+    opacity: 0.8;
+  }
+}
+
+.customer-wrapper {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.rewiew-rating {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  h3 {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 187%;
+    font-variant: small-caps;
+    color: var(--black-100);
+  }
+}
