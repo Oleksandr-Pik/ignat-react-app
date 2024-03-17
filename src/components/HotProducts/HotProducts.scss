@@ -42,7 +42,6 @@
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 20px;
-    // line-height: 130%;
     font-variant: small-caps;
     color: var(--black-80);
     margin-bottom: 20px;
@@ -51,7 +50,6 @@
   p {
     font-family: var(--font-family);
     font-size: 16px;
-    // line-height: 150%;
     color: var(--black-60);
   }
 
@@ -59,14 +57,9 @@
     font-family: var(--font-family);
     font-weight: 700;
     font-size: 20px;
-    // line-height: 200%;
     color: #4aaa4e;
     margin-top: 15px;
   }
-}
-
-.product-img {
-  // position: relative;
 }
 
 .heart-icon {
@@ -79,10 +72,3 @@
 .hot-products-button-next {
   cursor: pointer;
 }
-
-// .swiper-pagination-fraction {
-//   top: 15px;
-//   right: 18px;
-//   /* width: 100%; */
-//   color: white;
-// }

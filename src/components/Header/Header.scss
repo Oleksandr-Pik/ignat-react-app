@@ -1,8 +1,4 @@
-.header {}
-
 .header-top {
-  // width: 1366px;
-  // margin: 0 auto;
   padding-top: 15px;
   padding-bottom: 15px;
   background: var(--black-80);
@@ -10,8 +6,6 @@
   .container {
     display: flex;
     justify-content: space-between;
-
-
   }
 
   a,
@@ -20,7 +14,6 @@
     line-height: 133%;
     font-variant: small-caps;
     color: var(--white);
-
   }
 }
 
@@ -61,7 +54,6 @@
     }
   }
 }
-
 
 .search-icon-wrapper {
   display: flex;
