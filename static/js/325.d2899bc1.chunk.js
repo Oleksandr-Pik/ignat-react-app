@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkignat_react_app=self.webpackChunkignat_react_app||[]).push([[325],{325:(a,e,c)=>{c.r(e),c.d(e,{default:()=>r});c(43);var t=c(579);const r=()=>(0,t.jsx)("div",{children:(0,t.jsx)("h1",{children:"Product Page"})})}}]);
-//# sourceMappingURL=325.d2899bc1.chunk.js.map

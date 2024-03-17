@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ignat-react-app/static/css/main.4b05dc62.css",
-    "main.js": "/ignat-react-app/static/js/main.de11398a.js",
-    "static/css/228.2d39327f.chunk.css": "/ignat-react-app/static/css/228.2d39327f.chunk.css",
-    "static/js/228.65c331eb.chunk.js": "/ignat-react-app/static/js/228.65c331eb.chunk.js",
-    "static/js/325.d2899bc1.chunk.js": "/ignat-react-app/static/js/325.d2899bc1.chunk.js",
+    "main.css": "/ignat-react-app/static/css/main.e98c01d3.css",
+    "main.js": "/ignat-react-app/static/js/main.41864323.js",
+    "static/css/494.a65731a8.chunk.css": "/ignat-react-app/static/css/494.a65731a8.chunk.css",
+    "static/js/494.d6985fbf.chunk.js": "/ignat-react-app/static/js/494.d6985fbf.chunk.js",
+    "static/js/325.a64af3a7.chunk.js": "/ignat-react-app/static/js/325.a64af3a7.chunk.js",
     "static/js/800.c9945117.chunk.js": "/ignat-react-app/static/js/800.c9945117.chunk.js",
     "static/media/pagination.svg": "/ignat-react-app/static/media/pagination.2c169dd9cab47c79b2caaaa0ff84a265.svg",
     "static/media/slider-image.jpg": "/ignat-react-app/static/media/slider-image.519005dc9cf2134412db.jpg",
@@ -12,24 +12,28 @@
     "static/media/slide-img-2.jpg": "/ignat-react-app/static/media/slide-img-2.340d19a6307547355ed3.jpg",
     "static/media/bg.jpg": "/ignat-react-app/static/media/bg.d8c72918a5b9499e84ea.jpg",
     "static/media/slide-img-1.jpg": "/ignat-react-app/static/media/slide-img-1.267bbc3e66d754d063fa.jpg",
+    "static/media/stars.svg": "/ignat-react-app/static/media/stars.85dab75ad415da79639dfef0ee1e10a3.svg",
+    "static/media/viber.svg": "/ignat-react-app/static/media/viber.7a08b2ab28e1d10425cddfafdbc74d6d.svg",
     "static/media/bag.svg": "/ignat-react-app/static/media/bag.4c6e5b7230a2825ba1ca03870e8997c9.svg",
     "static/media/logo.svg": "/ignat-react-app/static/media/logo.70ff24ae3e207e0f57570056892fda3f.svg",
     "index.html": "/ignat-react-app/index.html",
+    "static/media/telegram.svg": "/ignat-react-app/static/media/telegram.db68e400b43ceb16b9a333f19ff02b0d.svg",
     "static/media/heart.svg": "/ignat-react-app/static/media/heart.06ad5e9cdc412c1822f3cbd83f8d3b88.svg",
+    "static/media/instagram.svg": "/ignat-react-app/static/media/instagram.e34de737bda68c303e3e3b850cef3dab.svg",
     "static/media/search-icon.svg": "/ignat-react-app/static/media/search-icon.88d53e1a8aa4c4bd24bf322060e7f311.svg",
     "static/media/angle-right.svg": "/ignat-react-app/static/media/angle-right.c606a29c242bdd25585b42526ca2395b.svg",
     "static/media/angle-left.svg": "/ignat-react-app/static/media/angle-left.a93a17c9c76783670d6101be7ef0030c.svg",
-    "static/media/arrow-right.svg": "/ignat-react-app/static/media/arrow-right.55335432f62b14f0750b8ff238c17f8e.svg",
-    "static/media/arrow-left.svg": "/ignat-react-app/static/media/arrow-left.2dd36e8e4aa5e945f48ba8af0b5ce0c6.svg",
-    "main.4b05dc62.css.map": "/ignat-react-app/static/css/main.4b05dc62.css.map",
-    "main.de11398a.js.map": "/ignat-react-app/static/js/main.de11398a.js.map",
-    "228.2d39327f.chunk.css.map": "/ignat-react-app/static/css/228.2d39327f.chunk.css.map",
-    "228.65c331eb.chunk.js.map": "/ignat-react-app/static/js/228.65c331eb.chunk.js.map",
-    "325.d2899bc1.chunk.js.map": "/ignat-react-app/static/js/325.d2899bc1.chunk.js.map",
+    "static/media/arrow-right.svg": "/ignat-react-app/static/media/arrow-right.fa2c95b0d452cb98e8009c75df5cceda.svg",
+    "static/media/arrow-left.svg": "/ignat-react-app/static/media/arrow-left.0e4ba4cd6b5ee0cb00b8860888315a2c.svg",
+    "main.e98c01d3.css.map": "/ignat-react-app/static/css/main.e98c01d3.css.map",
+    "main.41864323.js.map": "/ignat-react-app/static/js/main.41864323.js.map",
+    "494.a65731a8.chunk.css.map": "/ignat-react-app/static/css/494.a65731a8.chunk.css.map",
+    "494.d6985fbf.chunk.js.map": "/ignat-react-app/static/js/494.d6985fbf.chunk.js.map",
+    "325.a64af3a7.chunk.js.map": "/ignat-react-app/static/js/325.a64af3a7.chunk.js.map",
     "800.c9945117.chunk.js.map": "/ignat-react-app/static/js/800.c9945117.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b05dc62.css",
-    "static/js/main.de11398a.js"
+    "static/css/main.e98c01d3.css",
+    "static/js/main.41864323.js"
   ]
 }
